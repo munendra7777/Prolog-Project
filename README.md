@@ -1,3 +1,3 @@
 # Prolog-Project
-project onHindi language
-on plurals in Hindi
+project on Hindi language
+on Subject-Verb and Object-Verb Agreement in Hindi.
